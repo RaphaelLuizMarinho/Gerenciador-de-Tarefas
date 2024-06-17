@@ -1,6 +1,6 @@
 # Gerenciador de Tarefas - API
 
-Esta é uma API de gerenciamento de tarefas construída com Spring Boot. Ela permite criar, listar, obter e deletar tarefas.
+Esta é uma API de gerenciamento de tarefas construída com Spring Framework Java. Ela permite criar, listar, obter e deletar tarefas.
 
 ## Requisitos
 
