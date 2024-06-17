@@ -12,7 +12,7 @@ Esta é uma API de gerenciamento de tarefas construída com Spring Boot. Ela per
 1. Clone o repositório:
 
    ```bash
-   git clone https://github.com/seu-usuario/gerenciador-tarefas.git
+   git clone https://github.com/RaphaelLuizMarinho/gerenciador-de-tarefas.git
    cd gerenciador-tarefas
 
 2. Compile o projeto:
