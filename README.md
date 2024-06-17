@@ -12,7 +12,7 @@ Esta é uma API de gerenciamento de tarefas construída com Spring Framework Jav
 1. Clone o repositório:
 
    ```bash
-   git clone https://github.com/RaphaelLuizMarinho/gerenciador-de-tarefas.git
+   git clone https://github.com/RaphaelLuizMarinho/Gerenciador-de-Tarefas.git
    cd gerenciador-de-tarefas
 
 2. Compile o projeto:
